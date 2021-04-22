@@ -1,4 +1,6 @@
 Rails.application.routes.draw do
+  resources :superlikes
+  resources :dislikes
   resources :likes
   resources :users
 

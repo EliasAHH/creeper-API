@@ -1,0 +1,2 @@
+class SuperlikesController < ApplicationController
+end
